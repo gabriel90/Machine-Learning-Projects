@@ -79,7 +79,6 @@ There were a total of five initial models used for this project:
 - k Nearest Neighbor Classifier
 - Random Forest Classifier
 - SGD Classifier
-- Support Vector Machine Classifier
 
 ### Preprocessing
 
